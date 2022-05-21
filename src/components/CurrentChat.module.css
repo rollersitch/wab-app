@@ -1,0 +1,15 @@
+.current-chat-container {
+  border-radius: 0 10px 10px 0;
+  flex-grow: 1;
+}
+
+.send-input-container {
+  display: flex;
+  flex-grow: 1;
+  min-width: 800px;
+  max-width: 1000px;
+  max-height: 100px;
+  height: 5vh;
+  background: wheat;
+  border-radius: 10px;
+}

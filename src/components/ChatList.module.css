@@ -1,0 +1,5 @@
+.chat-list-container {
+  background: #0048aa;
+  border-radius: 10px 0 0 10px;
+  flex-basis: 275px;
+}
